@@ -2,4 +2,4 @@ venv:
 	python3.6 -m venv venv
 
 test:
-	python -m unittest discover tests/
+	PYTHONPATH=src/ python -m unittest discover tests/
