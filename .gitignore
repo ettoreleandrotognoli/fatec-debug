@@ -4,3 +4,6 @@ venv/
 !.gitignore
 !.travis.yml
 htmlcov/
+src/**.egg-info/
+src/build/
+src/dist/
