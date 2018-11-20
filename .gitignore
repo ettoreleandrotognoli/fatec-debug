@@ -2,4 +2,5 @@ venv/
 **.py[cod]
 .*
 !.gitignore
+!.travis.yml
 htmlcov/
